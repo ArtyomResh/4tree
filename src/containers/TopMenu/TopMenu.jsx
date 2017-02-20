@@ -49,7 +49,11 @@ class TopMenu extends Component {
       },
       {
         title: 'Loader',
-        link: 'Loader'
+        link: 'loader'
+      },
+      {
+        title: 'Author',
+        link: 'author'
       },
     ];
     return (
