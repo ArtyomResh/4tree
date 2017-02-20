@@ -15,7 +15,7 @@ module.exports = Object.assign({
   apiHost: process.env.APIHOST || 'localhost',
   apiPort: process.env.APIPORT,
   app: {
-    title: '4tree',
+    title: 'Resh tools',
     description: 'Notes, tasks, mindmaps, cards and other productive tools',
     head: {
       titleTemplate: '%s - 4tree',

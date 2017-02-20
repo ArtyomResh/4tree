@@ -7,8 +7,7 @@ class Home extends Component {
     return (
       <div className={styles.home}>
         <Helmet title='Home'/>
-        <h2>Hello 4tree!</h2>
-        <h3>We have home work now... till 01.06.2016</h3>
+        <h2>Hello Artyom! Let's start!</h2>
       </div>
     );
   }
